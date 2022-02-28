@@ -1,0 +1,10 @@
+.navBar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.img-navBar {
+  width: 3%;
+}
+img {
+}
