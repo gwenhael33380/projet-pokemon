@@ -8,3 +8,15 @@
 }
 img {
 }
+
+/* --------------------------------------------------------section 1-------------------------------------------------- */
+.article {
+  display: flex;
+  justify-content: start;
+}
+.img-article {
+  width: 20%;
+}
+.img-article2 {
+  width: 20%;
+}
